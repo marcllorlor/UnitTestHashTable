@@ -1,0 +1,3 @@
+he anat a passejar pel costat del riu#El riu és un bon lloc per a passejar#anat,bon,costat,del,el,és,he,lloc,pel,per,un
+ara estic fent una prova de m5uf2 basada en test unitaris#les proves que fem de m5uf2 son de test unitaris#ara,basada,en,estic,fem,fent,les,prova,proves,que,son,una
+No se que passa#no ho se no ho se no se pas que es el que passa#el,es,ho,pas

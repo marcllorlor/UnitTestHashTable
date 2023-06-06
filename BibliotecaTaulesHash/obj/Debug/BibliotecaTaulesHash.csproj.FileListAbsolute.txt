@@ -1,0 +1,39 @@
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\BibliotecaTaulesHash\bin\Debug\BibliotecaTaulesHash.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\BibliotecaTaulesHash\bin\Debug\BibliotecaTaulesHash.pdb
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.csproj.AssemblyReference.cache
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.csproj.CoreCompileInputs.cache
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.pdb
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\BibliotecaTaulesHash\bin\Debug\BibliotecaTaulesHash.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\BibliotecaTaulesHash\bin\Debug\BibliotecaTaulesHash.pdb
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.csproj.AssemblyReference.cache
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.csproj.CoreCompileInputs.cache
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.pdb
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\BibliotecaTaulesHash\bin\Debug\BibliotecaTaulesHash.dll
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\BibliotecaTaulesHash\bin\Debug\BibliotecaTaulesHash.pdb
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.csproj.AssemblyReference.cache
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.csproj.CoreCompileInputs.cache
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.dll
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.pdb
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\BibliotecaTaulesHash\bin\Debug\BibliotecaTaulesHash.dll
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\BibliotecaTaulesHash\bin\Debug\BibliotecaTaulesHash.pdb
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.csproj.AssemblyReference.cache
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.csproj.CoreCompileInputs.cache
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.dll
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.pdb
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\BibliotecaTaulesHash\bin\Debug\BibliotecaTaulesHash.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\BibliotecaTaulesHash\bin\Debug\BibliotecaTaulesHash.pdb
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.csproj.AssemblyReference.cache
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.csproj.CoreCompileInputs.cache
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.pdb
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\BibliotecaTaulesHash\bin\Debug\BibliotecaTaulesHash.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\BibliotecaTaulesHash\bin\Debug\BibliotecaTaulesHash.pdb
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.csproj.AssemblyReference.cache
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.csproj.CoreCompileInputs.cache
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.pdb
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\BibliotecaTaulesHash\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.csproj.SuggestedBindingRedirects.cache
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\BibliotecaTaulesHash\obj\Debug\BibliotecaTaulesHash.csproj.CopyComplete

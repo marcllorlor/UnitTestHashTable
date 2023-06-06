@@ -1,0 +1,3 @@
+he anat a passejar pel costat del riu#El riu és un bon lloc per a passejar#a,passejar,riu
+ara estic fent una prova de m5uf2 basada en test unitaris#les proves que fem de m5uf2 son de test unitaris#de,m5uf2,test,unitaris
+ho veus com estic fent aixo#no no ho veig com ho fas#com,ho

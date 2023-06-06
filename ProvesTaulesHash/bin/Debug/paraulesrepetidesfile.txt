@@ -1,0 +1,3 @@
+primer.txt#segon.txt#cinc,dos,quatre,tres
+tercer.txt#quart.txt#no,passa,que,se
+

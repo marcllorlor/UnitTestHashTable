@@ -1,0 +1,132 @@
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\ProvesTaulesHash.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\ProvesTaulesHash.pdb
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\BibliotecaTaulesHash.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\BibliotecaTaulesHash.pdb
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.AssemblyReference.cache
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.CoreCompileInputs.cache
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.CopyComplete
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.pdb
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\ProvesTaulesHash.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\ProvesTaulesHash.pdb
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\BibliotecaTaulesHash.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\BibliotecaTaulesHash.pdb
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.AssemblyReference.cache
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.CoreCompileInputs.cache
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.CopyComplete
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.dll
+C:\Users\marc_\OneDrive\DAM2\M5 UF2 - Optimitzacio de programari\Test unitaris\Exercicis\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.pdb
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\ProvesTaulesHash.dll
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\ProvesTaulesHash.pdb
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\BibliotecaTaulesHash.dll
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\BibliotecaTaulesHash.pdb
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.AssemblyReference.cache
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.CoreCompileInputs.cache
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.CopyComplete
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.dll
+C:\Users\jfedc\Downloads\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.pdb
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\ProvesTaulesHash.dll
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\ProvesTaulesHash.pdb
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\BibliotecaTaulesHash.dll
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\BibliotecaTaulesHash.pdb
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.AssemblyReference.cache
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.CoreCompileInputs.cache
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.CopyComplete
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.dll
+C:\EDUCEM\CURS 2021-22\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.pdb
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\ProvesTaulesHash.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\ProvesTaulesHash.pdb
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\BibliotecaTaulesHash.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\BibliotecaTaulesHash.pdb
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.AssemblyReference.cache
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.CoreCompileInputs.cache
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.CopyComplete
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.dll
+C:\EDUCEM\CURS 2021-22\CURS 2022-23\DAM - M5UF2 - 20H - OPTIMITZACIÓ DE PROGRAMARI\UnityTest\SOLUCIONS\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.pdb
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\ProvesTaulesHash.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\ProvesTaulesHash.pdb
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\BibliotecaTaulesHash.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\BibliotecaTaulesHash.pdb
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.AssemblyReference.cache
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.CoreCompileInputs.cache
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.CopyComplete
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.pdb
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\DAM2\M5UF2\BibliotecaTaulesHash\BibliotecaTaulesHash\ProvesTaulesHash\obj\Debug\ProvesTaulesHash.csproj.SuggestedBindingRedirects.cache
